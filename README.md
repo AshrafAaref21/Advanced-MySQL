@@ -12,7 +12,7 @@ It's a project to create, manipulate and control the database.
 
 ## Screenshots of Queries Used
 
-![Triggers](https://drive.google.com/file/d/1CYlB9_L8-YJPs5XqopPs_C3GaRLDyp2R/view?usp=sharing)
+![Triggers](https://github.com/AshrafAaref21/Advanced-MySQL/blob/ee63a63354d8fda7eab92846134e2399836177d2/trigger%20pic.png)
 
 ![Procedures & Functions](https://github.com/AshrafAaref21/Advanced-MySQL/blob/9bd5e6c2962e3d11789b1b2c86511f4a0a7c3b3a/fun.png)
 
